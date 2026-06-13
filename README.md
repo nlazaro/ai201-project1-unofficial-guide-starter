@@ -1,19 +1,13 @@
 # The Unofficial Guide — Project 1
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
----
-
 ## Domain
 
 <!-- What topic or category of knowledge does your system cover?
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-     This system covers student-generated knowledge about the Computer Science department at Brooklyn College (CUNY). It includes professor reviews, course advice, program requirements, and informal student opinions that are difficult to find through official channels. Official sources like course catalogs and department websites describe what courses exist, but don't reflect teaching style, exam difficulty, workload, or which professors are worth taking. This system makes that informal knowledge searchable and answerable.
+
+This system covers student-generated knowledge about the Computer Science department at Brooklyn College (CUNY). It includes professor reviews, course advice, program requirements, and informal student opinions that are difficult to find through official channels. Official sources like course catalogs and department websites describe what courses exist, but don't reflect teaching style, exam difficulty, workload, or which professors are worth taking. This system makes that informal knowledge searchable and answerable.
 
 ---
 
