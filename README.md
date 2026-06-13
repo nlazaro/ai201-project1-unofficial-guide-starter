@@ -13,7 +13,8 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-     This system covers student-generated knowledge about the Computer Science department at Brooklyn College (CUNY). It includes professor reviews, course advice, program requirements, and informal student opinions that are difficult to find through official channels. Official sources like course catalogs and department websites describe what courses exist, but don't reflect teaching style, exam difficulty, workload, or which professors are worth taking. This system makes that informal knowledge searchable and answerable.
+     
+This system covers student-generated knowledge about the Computer Science department at Brooklyn College (CUNY). It includes professor reviews, course advice, program requirements, and informal student opinions that are difficult to find through official channels. Official sources like course catalogs and department websites describe what courses exist, but don't reflect teaching style, exam difficulty, workload, or which professors are worth taking. This system makes that informal knowledge searchable and answerable.
 
 ---
 
@@ -34,7 +35,7 @@
 | 7 |r/CUNY | Subreddit| https://www.reddit.com/r/CUNY/|
 | 8 | r/BrooklynCollege| Subreddit | https://www.reddit.com/r/BrooklynCollege/|
 | 9 | Brooklyn College CS Club Website| Club website | https://www.reddit.com/r/BrooklynCollege/|
-| 10 | Brooklyn College CS Discord| Discord export | docs/bc_csclub_discord.html|
+| 10 | Brooklyn College CS Discord| Discord export (past 3 years) | docs/bc_csclub_discord.html|
 
 
 ---
